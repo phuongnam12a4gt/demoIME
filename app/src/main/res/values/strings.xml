@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">demoIME</string>
+    <string name="fast_input_label">FastInput</string>
+    <string name="display_name_english_keyboard_dynamic_ime">English</string>
+    <string name="display_name_english_keyboard_ime">EnglishDynamic</string>
+</resources>
